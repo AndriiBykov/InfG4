@@ -3,5 +3,6 @@
     public class Class1
     {
         public int testInt = 5;
+        public string testStr = "test";
     }
 }
